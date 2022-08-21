@@ -1,0 +1,13 @@
+.myClass, .mySecondClass {
+    font-size: 28;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.myClass {
+    background-color: black;
+    color: white;
+}
+
+.mySecondClass {
+    background-color: yellow;
+}
